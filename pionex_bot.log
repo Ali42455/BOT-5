@@ -1,0 +1,21 @@
+2026-10-30 01:03:35 | INFO    | ============================================================
+2026-10-30 01:03:35 | INFO    | PIONEX EMA20 BOT | LIVE | 5M | 50 USDT/trade | max 3 trades | RR 1:2
+2026-10-30 01:03:35 | INFO    | Watchlist (19): BTC_USDT, ETH_USDT, SOL_USDT, BNB_USDT, XRP_USDT, DOGE_USDT, ADA_USDT, AVAX_USDT, LINK_USDT, DOT_USDT, LTC_USDT, TRX_USDT, NEAR_USDT, SUI_USDT, APT_USDT, ARB_USDT, OP_USDT, INJ_USDT, TON_USDT
+2026-10-30 01:03:35 | INFO    | ============================================================
+2026-10-30 01:03:36 | INFO    | USDT free: 65.597555461225662410796
+2026-10-30 01:03:36 | INFO    | Dib u akhrinta trades-ka jira ee Pionex (reconcile)...
+2026-10-30 01:03:36 | INFO    | Trades furan: 0
+2026-10-30 01:03:36 | INFO    | Scan-ka xiga: 01:05:05
+2026-10-30 01:05:12 | WARNING | TON_USDT: scan khalad — TAPI_QUOTE_INVALID_SYMBOL: Invalid Symbol
+2026-10-30 01:05:12 | INFO    | Scan 01:05:12 | signals: 0 | ma jiro: 18 | xog duug: 0 | khalad: 1
+2026-10-30 01:17:52 | INFO    | ============================================================
+2026-10-30 01:17:52 | INFO    | PIONEX EMA20 BOT | LIVE | 5M | 50 USDT/trade | max 3 trades | RR 1:2
+2026-10-30 01:17:52 | INFO    | Watchlist (19): BTC_USDT, ETH_USDT, SOL_USDT, BNB_USDT, XRP_USDT, DOGE_USDT, ADA_USDT, AVAX_USDT, LINK_USDT, DOT_USDT, LTC_USDT, TRX_USDT, NEAR_USDT, SUI_USDT, APT_USDT, ARB_USDT, OP_USDT, INJ_USDT, TON_USDT
+2026-10-30 01:17:52 | INFO    | ============================================================
+2026-10-30 01:17:53 | INFO    | USDT free: 65.597555461225662410796
+2026-10-30 01:17:53 | INFO    | Dib u akhrinta trades-ka jira ee Pionex (reconcile)...
+2026-10-30 01:17:53 | INFO    | Trades furan: 0
+2026-10-30 01:17:53 | INFO    | Scan-ka xiga: 01:20:05
+2026-10-30 01:20:19 | WARNING | TON_USDT: Pionex wuxuu leeyahay symbol khaldan (TAPI_QUOTE_INVALID_SYMBOL) — waa laga saaray watchlist-ka
+2026-10-30 01:20:19 | INFO    | Scan 01:20:19 | signals: 0 | ma jiro: 18 | xog duug: 0 | khalad: 0
+2026-10-30 01:25:20 | INFO    | Scan 01:25:20 | signals: 0 | ma jiro: 18 | xog duug: 0 | khalad: 0
